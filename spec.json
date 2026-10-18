@@ -1,0 +1,51 @@
+{
+    "name":  "img-stitch",
+    "logo":  "🧵",
+    "exe":  "ImgStitch.exe",
+    "desc":  "Free, open-source image stitcher for Windows — combine screenshots and photos into long images, aligned. 100 MB portable, offline, MIT.",
+    "topics":  [
+                   "image-stitcher",
+                   "combine-images",
+                   "long-screenshot",
+                   "photo-stitch",
+                   "webtoon",
+                   "media",
+                   "utilities",
+                   "hugin-alternative",
+                   "photostitcher-alternative",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "panorama",
+                   "overlap-alignment",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Vertical, horizontal and grid layouts** — long web captures, side-by-side comparisons and contact sheets",
+                     "✅ **Overlap auto-alignment** — detects matching strips between sequential screenshots and seams them cleanly",
+                     "✅ **Border and background control** — gap width, background color and rounded edges between tiles",
+                     "✅ **Auto-crop overlap** — strips duplicated scroll regions instead of stacking them",
+                     "✅ **Memory-safe large canvases** — stitches 50-plus images into a 30000 px result without exhausting RAM",
+                     "✅ **Export presets** — web-optimized JPEG or lossless PNG at chosen scale",
+                     "✅ **100 MB self-contained exe** — imaging codecs bundled, portable, offline, MIT with SHA-256 releases"
+                 ],
+    "compare":  [
+                    "| Feature | **img-stitch** | Hugin | PhotoStitcher | Web Stitchers |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Free, OSS | Paid | Freemium |",
+                    "| Open source | **Yes** | Yes | No | No |",
+                    "| Long-screenshot mode | **Yes** | No | No | Partial |",
+                    "| Overlap trim for scrolls | **Yes** | No | Partial | Partial |",
+                    "| 50-plus tile contact sheets | **Yes** | No | Partial | No |",
+                    "| Portable, no install | **Yes, 100 MB** | Installer | Installer | Web |"
+                ],
+    "faqQ":  "how to combine multiple screenshots into one long image?",
+    "faqA":  "Chat and webpage captures arrive as a dozen fragments with scroll overlaps, and pasting them into Paint produces visible seams. img-stitch finds the matching strips, trims duplicates and outputs one clean long image, or a bordered grid when you need a comparison sheet. It is a 100 MB portable exe, MIT, offline.",
+    "s1":  "Dark canvas (#121418, orange #F97316): 12 screenshot tiles in vertical order, seam markers green where overlap was trimmed, canvas height readout 18,420 px.",
+    "s2":  "Layout panel: vertical, horizontal and grid modes, gap slider at 8 px, background color swatch, auto-crop overlap toggle on.",
+    "s3":  "Export dialog: JPEG and PNG cards, scale selector 100 percent, memory estimate bar green, preview strip of the final seam."
+}
